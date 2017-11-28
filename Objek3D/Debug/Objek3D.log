@@ -1,0 +1,30 @@
+﻿  main.cpp
+c:\users\wahyu\onedrive\pens\kuliah\semester 5\grafika komputer\pertemuan_8\objek3d\objek3d\main.cpp(185): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wahyu\onedrive\pens\kuliah\semester 5\grafika komputer\pertemuan_8\objek3d\objek3d\main.cpp(186): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wahyu\onedrive\pens\kuliah\semester 5\grafika komputer\pertemuan_8\objek3d\objek3d\main.cpp(188): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wahyu\onedrive\pens\kuliah\semester 5\grafika komputer\pertemuan_8\objek3d\objek3d\main.cpp(189): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wahyu\onedrive\pens\kuliah\semester 5\grafika komputer\pertemuan_8\objek3d\objek3d\main.cpp(195): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wahyu\onedrive\pens\kuliah\semester 5\grafika komputer\pertemuan_8\objek3d\objek3d\main.cpp(197): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wahyu\onedrive\pens\kuliah\semester 5\grafika komputer\pertemuan_8\objek3d\objek3d\main.cpp(201): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wahyu\onedrive\pens\kuliah\semester 5\grafika komputer\pertemuan_8\objek3d\objek3d\main.cpp(203): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wahyu\onedrive\pens\kuliah\semester 5\grafika komputer\pertemuan_8\objek3d\objek3d\main.cpp(209): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wahyu\onedrive\pens\kuliah\semester 5\grafika komputer\pertemuan_8\objek3d\objek3d\main.cpp(210): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wahyu\onedrive\pens\kuliah\semester 5\grafika komputer\pertemuan_8\objek3d\objek3d\main.cpp(212): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wahyu\onedrive\pens\kuliah\semester 5\grafika komputer\pertemuan_8\objek3d\objek3d\main.cpp(213): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wahyu\onedrive\pens\kuliah\semester 5\grafika komputer\pertemuan_8\objek3d\objek3d\main.cpp(269): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\wahyu\onedrive\pens\kuliah\semester 5\grafika komputer\pertemuan_8\objek3d\objek3d\main.cpp(279): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\wahyu\onedrive\pens\kuliah\semester 5\grafika komputer\pertemuan_8\objek3d\objek3d\main.cpp(289): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\wahyu\onedrive\pens\kuliah\semester 5\grafika komputer\pertemuan_8\objek3d\objek3d\main.cpp(337): warning C4018: '<': signed/unsigned mismatch
+c:\users\wahyu\onedrive\pens\kuliah\semester 5\grafika komputer\pertemuan_8\objek3d\objek3d\main.cpp(359): warning C4018: '<': signed/unsigned mismatch
+c:\users\wahyu\onedrive\pens\kuliah\semester 5\grafika komputer\pertemuan_8\objek3d\objek3d\main.cpp(367): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wahyu\onedrive\pens\kuliah\semester 5\grafika komputer\pertemuan_8\objek3d\objek3d\main.cpp(370): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wahyu\onedrive\pens\kuliah\semester 5\grafika komputer\pertemuan_8\objek3d\objek3d\main.cpp(373): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wahyu\onedrive\pens\kuliah\semester 5\grafika komputer\pertemuan_8\objek3d\objek3d\main.cpp(376): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wahyu\onedrive\pens\kuliah\semester 5\grafika komputer\pertemuan_8\objek3d\objek3d\main.cpp(379): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wahyu\onedrive\pens\kuliah\semester 5\grafika komputer\pertemuan_8\objek3d\objek3d\main.cpp(382): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wahyu\onedrive\pens\kuliah\semester 5\grafika komputer\pertemuan_8\objek3d\objek3d\main.cpp(396): warning C4018: '<': signed/unsigned mismatch
+c:\users\wahyu\onedrive\pens\kuliah\semester 5\grafika komputer\pertemuan_8\objek3d\objek3d\main.cpp(404): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\wahyu\onedrive\pens\kuliah\semester 5\grafika komputer\pertemuan_8\objek3d\objek3d\main.cpp(407): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+c:\users\wahyu\onedrive\pens\kuliah\semester 5\grafika komputer\pertemuan_8\objek3d\objek3d\main.cpp(415): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+  Objek3D.vcxproj -> C:\Users\wahyu\OneDrive\PENS\Kuliah\Semester 5\Grafika Komputer\Pertemuan_8\Objek3D\Debug\Objek3D.exe
+  Objek3D.vcxproj -> C:\Users\wahyu\OneDrive\PENS\Kuliah\Semester 5\Grafika Komputer\Pertemuan_8\Objek3D\Debug\Objek3D.pdb (Partial PDB)
